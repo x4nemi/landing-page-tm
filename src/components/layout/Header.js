@@ -117,7 +117,7 @@ const Header = ({
                       </Link>
                     </li>
                   </ul>
-                  {!hideSignin && (
+                  {/* {!hideSignin && (
                     <ul className="list-reset header-nav-right">
                       <li>
                         <Link
@@ -125,11 +125,11 @@ const Header = ({
                           className="button button-primary button-wide-mobile button-sm"
                           onClick={closeMenu}
                         >
-                          Sign up
+                          
                         </Link>
                       </li>
                     </ul>
-                  )}
+                  )} */}
                 </div>
               </nav>
             </>

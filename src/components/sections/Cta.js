@@ -105,9 +105,16 @@ const Cta = ({
               ¿Te interesa formar parte de nuestro equipo?
             </h3>
           </div>
-          <div className="cta-action">
-            {/* <div className="m-10">Nombre</div> */}
-            <Input
+
+          <div className="cta-slogan">
+            <h6 className="m-0">Mila Ortega</h6>
+            <h6 className="m-0">Teléfono: 7381925462</h6>
+            <h6 className="m-0">Correo electrónico: mila.ortega@correo.com</h6>
+            <h6 className="m-0">Dirección: Las Nubes, Nuevo León.</h6>
+          </div>
+
+          {/* <div className="m-10">Nombre</div> */}
+          {/* <Input
               id="text"
               type="text"
               label="text"
@@ -153,8 +160,7 @@ const Cta = ({
 
             <Button tag="a" color="white" className="mt-16" wideMobile href="#">
               Enviar
-            </Button>
-          </div>
+            </Button> */}
         </div>
       </div>
     </section>

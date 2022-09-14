@@ -2,7 +2,7 @@ import React from "react";
 // import sections
 import Cta from "../components/sections/Cta";
 
-export const HomeCopy = () => {
+export const Contact = () => {
   return (
     <>
       {/* <Hero className="illustration-section-01" /> */}
@@ -19,4 +19,4 @@ export const HomeCopy = () => {
   );
 };
 
-export default HomeCopy;
+export default Contact;

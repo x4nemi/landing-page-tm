@@ -56,7 +56,7 @@ const Hero = ({
                 Esta página es para que puedas votar sobre el tipo de
                 personalidad de tus mejores amigos y ellos sobre ti.
               </p>
-              <div className="reveal-from-bottom" data-reveal-delay="600">
+              {/* <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button
                     tag="a"
@@ -75,7 +75,7 @@ const Hero = ({
                     View on Github
                   </Button>
                 </ButtonGroup>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

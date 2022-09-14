@@ -69,14 +69,16 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Extrovertido/Introvertidos</h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    Los introvertidos se interesan principalmente por sus
+                    pensamientos y sentimientos, por su mundo interior. Tienden
+                    a ser profundamente introspectivos. Los extrovertidos se
+                    interesan por el mundo exterior de la gente y de las cosas,
+                    tratan de ser más sociables y de estar más al tanto de lo
+                    que pasa en su entorno.
                   </p>
                 </div>
               </div>
             </div>
-
             <div
               className="tiles-item reveal-from-bottom"
               data-reveal-delay="200"
@@ -93,16 +95,18 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Intuición/Sensación</h4>
+                  <h4 className="mt-0 mb-8">Intuitivo/Sensorial</h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    Los intuitivos se orientan hacia la percepción de hechos de
+                    la realidad y detalles. Refiere a un tipo de pensamiento
+                    concreto, práctico y procedimental. Los sensoriales tienden
+                    hacia el descubrimiento de relaciones entre conceptos y
+                    significados subyacentes. Alude a habilidades creativas e
+                    innovadoras.
                   </p>
                 </div>
               </div>
             </div>
-
             <div
               className="tiles-item reveal-from-bottom"
               data-reveal-delay="400"
@@ -121,14 +125,13 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Sentimiento/Pensamiento</h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    A la hora de tomar decisiones, ¿prefiere centrarse primero
+                    en la lógica y la consistencia o en su lugar pone el foco en
+                    las personas y las circunstancias especiales?
                   </p>
                 </div>
               </div>
             </div>
-
             <div className="tiles-item reveal-from-bottom">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
@@ -144,15 +147,14 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Perceptivo/Juicioso</h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    Al lidiar con el mundo exterior, ¿prefiere que las cosas
+                    estén ordenadas, estructuradas y bajo control o está abierto
+                    a nuevas informaciones y opciones?
                   </p>
                 </div>
               </div>
             </div>
-
-            <div
+            {/* <div
               className="tiles-item reveal-from-bottom"
               data-reveal-delay="200"
             >
@@ -176,9 +178,9 @@ const FeaturesTiles = ({
                   </p>
                 </div>
               </div>
-            </div>
+            </div>{" "} */}
 
-            <div
+            {/* <div
               className="tiles-item reveal-from-bottom"
               data-reveal-delay="400"
             >
@@ -194,7 +196,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Robust Workflow</h4>
+                  <h4 className="mt-0 mb-8"></h4>
                   <p className="m-0 text-sm">
                     Duis aute irure dolor in reprehenderit in voluptate velit
                     esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
@@ -202,7 +204,7 @@ const FeaturesTiles = ({
                   </p>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
